@@ -9,7 +9,7 @@ Repositório do projeto de testes automatizados do sistema Zombie Plus, constru�
 - Playwright
 - Javascript
 - Faker
-- PostgreSQL
+- Neon
 
 ## 🤖 Como executar
 
